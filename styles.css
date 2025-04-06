@@ -117,3 +117,17 @@ body{
     font-size: 22px;
    
 }
+
+
+@media (max-width: 600px) {
+    .search{
+        width: auto;
+    }
+    .card{
+        width: 95%;
+        max-width: auto;
+        margin-top: 110px;
+        border-radius: 20px;
+        padding: 30px 10px;
+    } 
+}
